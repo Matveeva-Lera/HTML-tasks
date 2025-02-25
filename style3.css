@@ -1,0 +1,21 @@
+body {
+	background-color: #f5f5f5;
+	font-family: Helvetica;
+}
+
+dd {
+	line-height: 25%;
+	padding: 10px 0px 10px 0px;
+}
+
+dt {
+	font-style: italic;
+}
+
+.gray_font {
+	color: #808080;
+}
+
+span {
+	color: #2e30ae;
+}
